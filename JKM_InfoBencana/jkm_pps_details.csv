@@ -1,0 +1,6 @@
+id,pic,nama,idnegeri,iddaerah,idmukim,negeri,daerah,mukim,seasonmain_id,season_id,seasondaerah_id,buka,kapasiti,kapasitiDouble,mangsa,keluarga,lelaki_dewasa,perempuan_dewasa,kanak_lelaki,kanak_perempuan,bayi_lelaki,bayi_perempuan,latitude,longitude,bencana,pregnant,postnatal,hemodialysis,palliative,screened_total,chronic_disease,injuries,age,ari,conjunctivitis,skin_infection,fever,other_infectious,health_remarks
+12779,selangor.png,JPKK KG DESA AMAN,10,80,519,Selangor,Gombak,Kuang,10,1396,3718,17 Jul,14%,28,7,1,1,3,2,0,0,1,3.2028400734505,101.59487951349,Tanah Runtuh,3,0,1,0,0,4,0,0,0,0,0,0,0,
+11994,sarawak.png,DEWAN KOMUNITI SIBU JAYA,13,180,229,Sarawak,Sibu,Sibu,13,1277,3719,18 Jul,2.2%,4.4,11,2,3,2,1,5,0,0,2.244554,111.958361,Ribut/Taufan,3,0,1,0,0,3,0,0,0,0,0,0,0,
+12727,kl.png,DEWAN SEPAKAT PANGSAPURI SERI MALAYSIA,14,190,203,Kuala Lumpur,Cheras,Bandar Tun Razak,14,1372,3681,25 May,22%,44,11,3,2,4,3,2,0,0,3.0802237,101.705295,Ribut/Taufan,0,0,0,0,0,0,0,0,0,0,0,0,0,
+12775,sarawak.png,GELANGGANG BOLA KERANJANG SUNGAI APONG,13,175,204,Sarawak,Kuching,Kuching,13,1277,3717,13 Jul,24%,48,24,8,9,4,4,6,0,1,1.543986,110.382532,Kebakaran,0,0,0,0,0,0,0,0,0,0,0,0,0,
+3180,sarawak.png,KPG SUKAN PETRONAS,13,184,242,Sarawak,Miri,Miri/Piasau,13,1277,3577,13 Jan,1.4%,2.8,7,1,4,3,0,0,0,0,4.399493,113.993913,Kebakaran,0,0,0,0,0,0,0,0,0,0,0,0,0,
